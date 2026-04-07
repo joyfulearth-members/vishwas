@@ -2,13 +2,14 @@
 name	Vishwas Mental Health
 byline	Spiritual Process in Mental Health?
 safeName	vishwas
-iconName	Vishwas MH
+iconName	Vishwas Mental Health
 
 footer-message	Peer Support for All Kinds of So Called Mental Health Issues With Spiritual Process
 
 siteMenuName	Vishwas MH
 sections	our-books, resources, more: people+what-is
 
-local-url	http://localhost/organizations/vishwas/
-live-url	https://organizations.amadeusweb.world/vishwas/
+local-url	http://localhost/vishwas/
+live-url	https://amadeusweb.world/vishwas/
+showIn	organizations
 year	2024

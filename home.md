@@ -25,8 +25,8 @@ Vishwas is a Sanskrit word that when translated in English has many meanings acc
 
 <!--more-->
 
-<img class="img-fluid show-in-landscape" src="%site-assets%/vishwas-mh-logo@2x.png" />
-<img class="img-fluid show-in-portrait" src="%site-assets%/vishwas-mh-logo@2x-portrait.png" />
+<img class="img-fluid show-in-landscape" src="%node-assets%/vishwas-mh-logo@2x.png" />
+<img class="img-fluid show-in-portrait" src="%node-assets%/vishwas-mh-logo@2x-portrait.png" />
 
 Here 'conviction' also points towards a feeling of certainty and that something that you are experiencing exists, is true and might be for good. The word vishwas also means 'credence' and through Vishwas we hope to lend credence to your consciousness and awareness of your spiritual energies so that you feel empowered and not bewildered. We are also trying to lend credence to your feelings and awareness. Vishwas also means 'notion' and we at 
 
