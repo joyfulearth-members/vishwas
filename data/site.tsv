@@ -7,9 +7,9 @@ iconName	Vishwas Mental Health
 footer-message	Peer Support for All Kinds of So Called Mental Health Issues With Spiritual Process
 
 siteMenuName	Vishwas MH
-sections	our-books, resources, more: people+what-is
+sections	resources, days, our-books, more: people+what-is
 
-local-url	http://localhost/vishwas/
-live-url	https://amadeusweb.world/vishwas/
+local-url	http://localhost/all/vishwas/
+live-url	https://vishwas.joyfulearth.org/
 showIn	organizations
 year	2024
